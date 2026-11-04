@@ -32,14 +32,14 @@ O XP é uma motivação simbólica: os checkboxes e a qualidade das evidências 
 
 ## Arquivos
 
-- [01_modulo_01_modelagem_financeira](./01_modulo_01_modelagem_financeira.md)
-- [02_modulo_02_explorador_transacoes](./02_modulo_02_explorador_transacoes.md)
-- [03_modulo_03_auditoria_pagamentos](./03_modulo_03_auditoria_pagamentos.md)
-- [04_modulo_04_relatorio_resultados](./04_modulo_04_relatorio_resultados.md)
-- [05_modulo_05_evolucao_financeira](./05_modulo_05_evolucao_financeira.md)
-- [06_modulo_06_inteligencia_clientes](./06_modulo_06_inteligencia_clientes.md)
-- [07_modulo_07_performance_qualidade](./07_modulo_07_performance_qualidade.md)
-- [08_projeto_final_finance_analytics](./08_projeto_final_finance_analytics.md)
+- [01_modulo_01_modelagem_financeira](./docs/01_modulo_01_modelagem_financeira.md)
+- [02_modulo_02_explorador_transacoes](./docs/02_modulo_02_explorador_transacoes.md)
+- [03_modulo_03_auditoria_pagamentos](./docs/03_modulo_03_auditoria_pagamentos.md)
+- [04_modulo_04_relatorio_resultados](./docs/04_modulo_04_relatorio_resultados.md)
+- [05_modulo_05_evolucao_financeira](./docs/05_modulo_05_evolucao_financeira.md)
+- [06_modulo_06_inteligencia_clientes](./docs/06_modulo_06_inteligencia_clientes.md)
+- [07_modulo_07_performance_qualidade](./docs/07_modulo_07_performance_qualidade.md)
+- [08_projeto_final_finance_analytics](./docs08_projeto_final_finance_analytics.md)
 
 ## Convenções recomendadas
 

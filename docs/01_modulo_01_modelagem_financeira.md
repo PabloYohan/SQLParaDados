@@ -36,16 +36,16 @@
 
 ## 3. Missões obrigatórias
 
-- [ ] Desenhar o relacionamento entre `contas`, `categorias`, `transacoes`.
-- [ ] Criar as quatro tabelas no PostgreSQL, com PKs e FKs coerentes.
-- [ ] Escolher tipos adequados para valores monetários, datas, textos e identificadores e justificar no README.
+- [X] Desenhar o relacionamento entre `contas`, `categorias`, `transacoes`.
+- [X] Criar as quatro tabelas no PostgreSQL, com PKs e FKs coerentes.
+- [X] Escolher tipos adequados para valores monetários, datas, textos e identificadores e justificar no README.
 - [ ] Cadastrar pelo menos 3 contas, 6 categorias, 8 clientes e 30 transações fictícias.
 - [ ] Testar uma inserção com chave estrangeira inexistente e registrar o comportamento do banco.
 - [ ] Descrever por que a modelagem serve ao uso transacional e como poderia alimentar relatórios analíticos.
 
 ## 4. Missão bônus (opcional)
 
-- [ ] ⭐ Identificar um risco de qualidade dos dados e criar uma restrição SQL para preveni-lo.
+- [X] ⭐ Identificar um risco de qualidade dos dados e criar uma restrição SQL para preveni-lo.
 
 ## 5. Checklist de qualidade
 
