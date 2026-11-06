@@ -9,7 +9,7 @@ CREATE TYPE account_type as ENUM(
     'CASH',
     'PAYMENT',
     'INVESTMENT'
-)
+);
 
 CREATE TABLE category (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -30,7 +30,7 @@ CREATE TABLE transaction (
 CREATE TABLE account (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     name VARCHAR(60) NOT NULL,
-    type type_account NOT NULL,
+    type account_type NOT NULL,
     initial_balance NUMERIC(15,2) DEFAULT 0,
     active BOOLEAN DEFAULT TRUE,
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP,
@@ -39,4 +39,4 @@ CREATE TABLE account (
 
 ALTER TABLE transaction
 ADD COLUMN account_id UUID NOT NULL
-REFERENCES account(id)
+REFERENCES account(id);

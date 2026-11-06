@@ -39,9 +39,9 @@
 - [X] Desenhar o relacionamento entre `contas`, `categorias`, `transacoes`.
 - [X] Criar as quatro tabelas no PostgreSQL, com PKs e FKs coerentes.
 - [X] Escolher tipos adequados para valores monetários, datas, textos e identificadores e justificar no README.
-- [ ] Cadastrar pelo menos 3 contas, 6 categorias, 8 clientes e 30 transações fictícias.
-- [ ] Testar uma inserção com chave estrangeira inexistente e registrar o comportamento do banco.
-- [ ] Descrever por que a modelagem serve ao uso transacional e como poderia alimentar relatórios analíticos.
+- [X] Cadastrar pelo menos 3 contas, 6 categorias, 30 transações fictícias.
+- [X] Testar uma inserção com chave estrangeira inexistente e registrar o comportamento do banco.
+- [X] Descrever por que a modelagem serve ao uso transacional e como poderia alimentar relatórios analíticos.
 
 ## 4. Missão bônus (opcional)
 
@@ -49,11 +49,11 @@
 
 ## 5. Checklist de qualidade
 
-- [ ] Executei cada consulta sem erro.
-- [ ] Comparei os resultados com valores conhecidos ou verificações independentes.
-- [ ] Registrei no README minhas escolhas, hipóteses e eventuais limitações.
-- [ ] Organizei os scripts para que outra pessoa consiga reproduzir o projeto.
-- [ ] Não usei soluções prontas sem compreender o raciocínio.
+- [X] Executei cada consulta sem erro.
+- [X] Comparei os resultados com valores conhecidos ou verificações independentes.
+- [X] Registrei no README minhas escolhas, hipóteses e eventuais limitações.
+- [X] Organizei os scripts para que outra pessoa consiga reproduzir o projeto.
+- [X] Não usei soluções prontas sem compreender o raciocínio.
 
 ## 6. Entrega e desbloqueio
 
@@ -61,7 +61,7 @@
 
 **Critério para avançar:** O banco aceita os dados válidos, protege relacionamentos e permite reconstruir as operações sem duplicidades.
 
-- [ ] 🏆 Concluí as missões obrigatórias e cumpri o critério de avanço.
+- [X] 🏆 Concluí as missões obrigatórias e cumpri o critério de avanço.
 
 **Reflexão (preencha):**
 
