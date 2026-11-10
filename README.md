@@ -5,7 +5,7 @@ Este pacote acompanha os **7 módulos do EPUB SQL para Dados**, preservando a pr
 ## Quadro de progresso
 
 - [X] 01 — O dado em tabelas · Arquiteto dos Dados
-- [ ] 02 — Consultando de verdade · Explorador de Dados
+- [X] 02 — Consultando de verdade · Explorador de Dados
 - [ ] 03 — Juntando dados · Investigador Financeiro
 - [ ] 04 — Subconsultas e CTE · Analista de Resultados
 - [ ] 05 — Funções de janela · Especialista em Tendências
@@ -21,15 +21,6 @@ Este pacote acompanha os **7 módulos do EPUB SQL para Dados**, preservando a pr
 4. Use uma **base fictícia evolutiva**: nos módulos seguintes, estenda as tabelas e dados criados anteriormente.
 5. Só marque o módulo como concluído depois de atender seu critério de avanço.
 
-## Sistema de progresso
-
-- **Missão principal:** 10 XP cada.
-- **Missão bônus (opcional):** 20 XP.
-- **Conclusão validada de módulo:** 30 XP.
-- **Projeto final concluído:** 300 XP.
-
-O XP é uma motivação simbólica: os checkboxes e a qualidade das evidências definem a conclusão real.
-
 ## Arquivos
 
 - [01_modulo_01_modelagem_financeira](./docs/01_modulo_01_modelagem_financeira.md)
@@ -39,7 +30,7 @@ O XP é uma motivação simbólica: os checkboxes e a qualidade das evidências 
 - [05_modulo_05_evolucao_financeira](./docs/05_modulo_05_evolucao_financeira.md)
 - [06_modulo_06_inteligencia_clientes](./docs/06_modulo_06_inteligencia_clientes.md)
 - [07_modulo_07_performance_qualidade](./docs/07_modulo_07_performance_qualidade.md)
-- [08_projeto_final_finance_analytics](./docs08_projeto_final_finance_analytics.md)
+- [08_projeto_final_finance_analytics](./docs/08_projeto_final_finance_analytics.md)
 
 ## Convenções recomendadas
 
